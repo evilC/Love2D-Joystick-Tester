@@ -1,6 +1,6 @@
 # Love2D Joystick Tester
 
-Plug=in your controller and test the input.
+Plug-in your controller and test the input.
 
 Currently only supports one joystick.
 
